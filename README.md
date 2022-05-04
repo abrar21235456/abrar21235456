@@ -4,7 +4,7 @@
   </head>
   <body>
    <h1>communicational concepts and strategies</h1>
-    <img src="net1.jpg">
+    <img src="https://github.com/abrar21235456/abrar21235456/blob/main/IMG20220504202833.jpg">
    <h2>show confidence and skills in oral communications and presentations</h2>
      <img src="https://github.com/abrar21235456/abrar21235456/blob/main/kjhd.jpg.webp">
    <h3>work effectively as part of a team</h3>
