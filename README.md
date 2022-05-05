@@ -12,7 +12,7 @@
    <h4>communicate effectively in a professional context</h4>
      <img src="https://github.com/abrar21235456/abrar21235456/blob/main/tem.jpg">
    <h5>define and demonstrate conflict management and resolution strategies</h5>
-     <img src="https://github.com/abrar21235456/abrar21235456/blob/main/index.png">
+     <img src="https://github.com/abrar21235456/abrar21235456/blob/main/dis.jpg">
    </body>
    </html>
 
